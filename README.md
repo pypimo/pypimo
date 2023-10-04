@@ -89,8 +89,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-royalblue?style=for-the-badge&logo=Trello&logoColor=white) -->
 
-
-
+<br>
 ## Social Hangouts:
 <p align="left">
 
@@ -98,6 +97,7 @@
 <a href = "https://www.instagram.com/prapti_bhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discord.com/"><img width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>  
 
+<br>
 ### Coding profiles: 
 
 <p align="left">
