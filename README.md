@@ -5,12 +5,6 @@
   <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47n10uc7mchtlaxpegw74hzgzhqx4miyy1o82cq0hh&rid=giphy.gif&ct=g" width="400" height="300"/>
 </div>
 
-<a href="https://auth.geeksforgeeks.org/user/pypimo">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-  -->
-
-<br/>
-
 ## 🙋‍♂️I am a FrontEnd Web Developer
 
 - 🔭 I’m a second year engineering undergrad
