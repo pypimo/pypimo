@@ -88,7 +88,6 @@
 
 <a href = "https://www.linkedin.com/in/praptibhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/prapti_bhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discord.com/"><img width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/></a>  
 
 ## Coding profiles: 
 
