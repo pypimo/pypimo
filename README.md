@@ -20,14 +20,14 @@
 
 ## 📊My GitHub Stats:
 <br/>
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=dark" alt="GitHub Streak" /></a>
 <!--     <a href="https://github.com/pypimo/github-readme-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pypimo&" alt="pypimo" /></a> -->
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
+<p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
 
 
