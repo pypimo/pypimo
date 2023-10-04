@@ -9,11 +9,6 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   -->
 
-<!--- </a>
-<a href="https://www.codechef.com/users/loser99">
-  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a> --->
-
 <br/>
 
 ## 🙋‍♂️I am a FrontEnd Web Developer
@@ -46,7 +41,7 @@
 <p align = "center">&nbsp;
     <a href="https://github.com/sharmakavya7"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmakavya7&show_icons=true&locale=en&layout=compact" alt="sharmakavya7" /></a> 
 </p> -->
-
+<br>
 ## 👨‍💻Tech stack and Languages used:
 
 <!-- ### Frontend Web Development -->
@@ -111,13 +106,13 @@
 ### Coding profiles: 
 
 <p align="left">
-<a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmakavya1002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmakavya1002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kavya_99" height="30" width="40" /></a>
-<!-- <a href="https://binarysearch.com/@/iamkavya7">
-  <img alt="binarysearch" width="100px" src="https://img.shields.io/badge/binarysearch-blue?style=for-the-badge&logo=binance&logoColor=white" />
-  &nbsp; </a> -->
+  <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pypimo" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pypimo" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/pypimo"><img align="left" alt="pypimo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" /></a>
 </p>
+
+<br>
 
 <p align="center"> 
   Visitor count<br>
