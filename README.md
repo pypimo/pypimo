@@ -1,32 +1,11 @@
-<!--
-**pypimo/pypimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--- <a href="#"><img width="48%" height="450" align="right" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="400" height="175px"/></a> --->
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-
 <!--- ## Hey there 👋 </br> --->
 <h1 align="center"> Hello visitor, I am Prapti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
 <div align="center">
   <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47n10uc7mchtlaxpegw74hzgzhqx4miyy1o82cq0hh&rid=giphy.gif&ct=g" width="400" height="300"/>
 </div>
-<!--
-<a href="https://leetcode.com/sharmakavya1002/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  
-<a href="https://auth.geeksforgeeks.org/user/sharmakavya1002/practice">
+
+<a href="https://auth.geeksforgeeks.org/user/pypimo">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   -->
 
@@ -144,4 +123,3 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pypimo/count.svg" />
 </p>
-
