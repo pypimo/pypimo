@@ -30,17 +30,10 @@
 <p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
 
- <details>
-  <summary>:zap: Most used languages</summary>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /> 
-</details>
-<!--  <img align="left" alt="Kavya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmakavya7" />  -->
-<!--   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=sharmakavya7&hide=contribs,prs)  -->
 
-<!--
-<p align = "center">&nbsp;
-    <a href="https://github.com/sharmakavya7"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmakavya7&show_icons=true&locale=en&layout=compact" alt="sharmakavya7" /></a> 
-</p> -->
+<p>Most used languages</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /> 
+
 <br>
 ## 👨‍💻Tech stack and Languages used:
 
@@ -53,17 +46,19 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-</a> <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
+</a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/63d81cae027521169108efc8a00a64683f9491d1/icon/solidity.svg" alt="solidity" width="40" height="40"/> </a>
 <a href="https://metamask.io/" target="_blank"> <img src="https://vectorwiki.com/images/ccHxn__metamask.svg" alt="metamask" width="40" height="40"/> </a>
-</a> <a href="https://ethereum.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="ethereum" width="100" height="40"/> </a>
-
+</a> 
+<a href="https://ethereum.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="ethereum" width="100" height="40"/> </a>
+-->
 <!-- ### Backend Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
