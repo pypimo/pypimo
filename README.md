@@ -13,8 +13,8 @@
 
 ## 🙋‍♂️I am a FrontEnd Web Developer
 
-- 🔭 🔭 I’m a second year undergrad at USICT, GGSIPU, Delhi, India.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m a second year engineering undergrad
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 🔎 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧 and watching movies 📺
 
