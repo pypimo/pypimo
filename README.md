@@ -33,7 +33,7 @@
 
 ## Most used languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /> 
-
+<br> 
 ## 👨‍💻Tech stack and Languages used:
 
 <!-- ### Frontend Web Development -->
