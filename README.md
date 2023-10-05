@@ -10,7 +10,7 @@
 - 🔭 I’m a second year engineering undergrad
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🔎 Learning technologies that I find interesting along the way
-- ⚡ I enjoy listening to music 🎧 and watching movies 📺
+- ⚡ I enjoy listening to music 🎧 and watching movies 📺 and reading books 📚
 
 ## 📊My GitHub Stats
 <p align="left">
@@ -19,10 +19,10 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p>
 <p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
-## Most used languages
+## </> Most used languages
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /></p>
 
-## 👨‍💻Tech stack and Languages used
+## 👩‍💻 Tech stack and Languages used
 <!-- ### Frontend Web Development -->
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
