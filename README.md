@@ -1,15 +1,14 @@
 <h1 align="center"> Hello visitor 👋, I am Prapti</h1> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif"/>
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIxMXVjNXQ2Mmk2N3pjbnFlbHUyZXR2bzZrdTZmeDJ1dmp3a3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/g
 iphy.gif" width="400" height="300"/> -->
-  
-
 ![giphy-downsized-large](https://github.com/pypimo/pypimo/assets/60395555/e2b09c09-72b0-4647-9946-0c7093ef72ee)
+  
 </div>
 
-## 🙋‍♂️I am a FrontEnd Web Developer
+## 🙋‍♀️I am a FrontEnd Web Developer
 
 - 🔭 I’m a second year engineering undergrad
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -26,7 +25,7 @@ iphy.gif" width="400" height="300"/> -->
 ## </> Most used languages
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /></p>
 
-## 👩‍💻 Tech stack and Languages used
+## 💻 Tech stack and Languages used
 <!-- ### Frontend Web Development -->
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -36,14 +35,18 @@ iphy.gif" width="400" height="300"/> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-## Social Hangouts
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=pypimo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🌐 Social Hangouts
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/praptibhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/prapti_bhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## Coding profiles
+## 👩‍💻 Coding profiles
 
 <p align="left">
   <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
