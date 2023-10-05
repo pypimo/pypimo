@@ -12,7 +12,7 @@
 - 🔎 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧 and watching movies 📺
 
-## 📊My GitHub Stats:
+## 📊My GitHub Stats
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=dark" alt="GitHub Streak" /></a>
 </p>
@@ -20,9 +20,7 @@
 <p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
 ## Most used languages
-<p align="left">&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" />
-</p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /></p>
 
 ## 👨‍💻Tech stack and Languages used
 <!-- ### Frontend Web Development -->
