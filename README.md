@@ -1,4 +1,4 @@
-<h1 align="center"> Hello visitor 👋, I am Prapti<img></h1> 
+<h1 align="center"> Hello visitor 👋, I am Prapti</h1> 
 
 <div align="center">
   <!--   <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif"/> -->
@@ -11,8 +11,7 @@
 ## 🙋‍♀️I am a FrontEnd Web Developer
 
 - 🔭 I’m a second year engineering undergrad
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 🔎 Learning technologies that I find interesting along the way
+- 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧 and watching movies 📺 and reading books 📚
 
 ## 📊My GitHub Stats
