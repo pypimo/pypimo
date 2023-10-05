@@ -19,7 +19,9 @@
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p>
+
+![pypimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical)
+<!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p> -->
 <p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
 ## </> Most used languages
