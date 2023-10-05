@@ -13,23 +13,16 @@
 - ⚡ I enjoy listening to music 🎧 and watching movies 📺
 
 ## 📊My GitHub Stats:
-<br/>
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=dark" alt="GitHub Streak" /></a>
-<!--     <a href="https://github.com/pypimo/github-readme-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pypimo&" alt="pypimo" /></a> -->
 </p>
-
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&locale=en" alt="pypimo"/></p>
-
 <p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
 
-
-
 ## Most used languages
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /> 
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact" alt="pypimo" /></p>
 
 ## 👨‍💻Tech stack and Languages used:
-
 <!-- ### Frontend Web Development -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
