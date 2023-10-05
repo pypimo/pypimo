@@ -1,8 +1,8 @@
 <h1 align="center"> Hello visitor 👋, I am Prapti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" width="400" height="300"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIxMXVjNXQ2Mmk2N3pjbnFlbHUyZXR2bzZrdTZmeDJ1dmp3a3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIxMXVjNXQ2Mmk2N3pjbnFlbHUyZXR2bzZrdTZmeDJ1dmp3a3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" height="300"/>
 </div>
 
 ## 🙋‍♂️I am a FrontEnd Web Developer
