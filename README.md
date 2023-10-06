@@ -11,7 +11,7 @@
 
 ## 🙋‍♀️I am a FrontEnd Web Developer 
 
-- 👩‍💻 I’m a second year engineering undergrad whoi loves about Computer Science
+- 👩‍💻 I’m a second year engineering undergrad who loves Computer Science
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧 and watching movies 📺 and reading books 📚
 
