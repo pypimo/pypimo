@@ -57,7 +57,7 @@
 ## 👩‍💻 Coding profiles
 
 <p align="left">
-  <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>&nbsp;
+  <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pypimo" height="30" width="40" /></a>&nbsp;
   <a href="https://codeforces.com/profile/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pypimo" height="30" width="40" /></a>&nbsp;
   <a href="https://www.codechef.com/users/pypimo"><img align="center" alt="pypimo" height="30" width="40" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" /></a>
