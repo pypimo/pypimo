@@ -9,7 +9,7 @@
 
 </div>
 
-## 🙋‍♀️I am a FrontEnd Web Developer
+<!-- 🙋‍♀️I am a FrontEnd Web Developer-->
 
 - 👩‍💻 I’m a second year engineering undergrad passionate about Computer Science
 - 🌱 Learning technologies that I find interesting along the way
