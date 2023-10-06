@@ -1,4 +1,4 @@
-<h1 align="center"> Hello visitor 👋, I am Prapti</h1> 
+<h1 align="center"> Hello visitor 👋 I am Prapti</h1> 
 
 <div align="center">
   <!--   <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif"/> -->
