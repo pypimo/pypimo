@@ -64,6 +64,8 @@
   <a href="https://www.codechef.com/users/pypimo"><img align="center" alt="pypimo" height="30" width="40" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" /></a>
 </p>
 
+[![An image of @pypimo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pypimo)](https://holopin.io/@pypimo)
+
 <br>
 <p align="center"> 
   Visitor count<br>
