@@ -13,7 +13,7 @@
 
 - 👩‍💻 I’m a second year engineering undergrad who loves Computer Science
 - 🌱 Learning technologies that I find interesting along the way
-- ⚡ I enjoy listening to music 🎧 and watching movies 📺 and reading books 📚
+- ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
 
 ## 📊My GitHub Stats
 <p align="left">
