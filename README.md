@@ -5,7 +5,7 @@
   <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIxMXVjNXQ2Mmk2N3pjbnFlbHUyZXR2bzZrdTZmeDJ1dmp3a3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/g
   iphy.gif" width="400" height="300"/> -->
   
-![new-cat](https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353)
+![cat-gif](https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353)
 
 </div>
 
@@ -16,14 +16,24 @@
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
 
 ## 📊My GitHub Stats
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
-![pypimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical)
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact&theme=radical" alt="pypimo" /></p>
-<p align="left">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=light,unicorn" alt="pypimo"/></p>
+<div align="center">
+  <br>
+  <a href="https://github.com/pypimo" align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=radical" alt="pypimo's GitHub Streak" height="200"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/pypimo" align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical" alt="pypimo's Github stats" height="200"/>
+  </a>
+  &nbsp&nbsp&nbsp
+  <a href="https://github.com/pypimo" align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact&theme=radical" alt="pypimo's top languages"  height="200" />
+  </a>
+  <br><br>
+  <a href="https://github.com/pypimo" align="left">
+    <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=dark" alt="pypimo's leetcode stats" height="200" />
+  </a>
+</div>
 
 ## 💻 Languages and Tools I'm familiar with
 <p align="left">
@@ -46,7 +56,11 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pypimo&theme=algolia&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <a href="https://www.github.com/pypimo">
+    <img src="https://github-profile-trophy.vercel.app/?username=pypimo&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="pypimo's trophies">
+  </a>
+</p>
 
 ## 🌐 Social Hangouts
 
@@ -64,10 +78,12 @@
   <a href="https://www.codechef.com/users/pypimo"><img align="center" alt="pypimo" height="30" width="40" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" /></a>
 </p>
 
-[![An image of @pypimo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pypimo)](https://holopin.io/@pypimo)
+[![pypimo's holopin badges](https://holopin.me/pypimo)](https://holopin.io/@pypimo)
 
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pypimo/count.svg" />
+  <a href="https://github.com/pypimo">
+    <img src="https://profile-counter.glitch.me/pypimo/count.svg" />
+  </a>
 </p>
