@@ -25,7 +25,7 @@
   <a href="https://github.com/pypimo" align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical" alt="pypimo's Github stats" height="200"/>
   </a>
-  &nbsp&nbsp&nbsp
+  <br><br>
   <a href="https://github.com/pypimo" align="right">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact&theme=radical" alt="pypimo's top languages"  height="200" />
   </a>
