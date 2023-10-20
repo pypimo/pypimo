@@ -80,9 +80,11 @@
 [![pypimo's holopin badges](https://holopin.me/pypimo)](https://holopin.io/@pypimo)
 
 <br>
-<p align="center"> 
+
+<div align="center"> 
+  <p>Visitor's Count</p>
   <a href="https://github.com/pypimo">
-<!--     <img src="https://profile-counter.glitch.me/pypimo/count.svg" /> -->
-    <img src="https://visitcount.itsvg.in/api?id=pypimo&icon=0&color=0" height="30" width="170"/>
+    <img src="https://profile-counter.glitch.me/pypimo/count.svg" alt="pypimo's Visitor Counter"/>
+<!--     <img src="https://visitcount.itsvg.in/api?id=pypimo&icon=0&color=0" height="30" width="170"/> -->
   </a>
-</p>
+</div>
