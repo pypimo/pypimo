@@ -82,7 +82,7 @@
 <br>
 
 <div align="center"> 
-  <p>Visitor's Count</p>
+  <p>Visitor's Counter</p>
   <a href="https://github.com/pypimo">
     <img src="https://profile-counter.glitch.me/pypimo/count.svg" alt="pypimo's Visitor Counter"/>
 <!--     <img src="https://visitcount.itsvg.in/api?id=pypimo&icon=0&color=0" height="30" width="170"/> -->
