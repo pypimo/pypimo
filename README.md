@@ -1,4 +1,4 @@
-<h1 align="left"> Hello visitor 👋 I am Prapti</h1> 
+<h1 align="center"> Hello visitor 👋 I am Prapti</h1> 
 
 <div align="center">
   <!--   <img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif"/> -->
@@ -6,7 +6,6 @@
   iphy.gif" width="400" height="300"/> -->
   
   ![cat-gif](https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353)
-
 </div>
 
 ## 🙋‍♀️I am a FrontEnd Web Developer 
