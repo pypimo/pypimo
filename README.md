@@ -65,6 +65,7 @@
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/praptibhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/prapti_twts/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/prapti_bhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
