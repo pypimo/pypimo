@@ -25,11 +25,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical" alt="pypimo's Github stats" height="200"/>
   </a>
   <br><br>
-  <a href="https://github.com/pypimo" align="right">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pypimo&show_icons=true&locale=en&layout=compact&theme=radical" alt="pypimo's top languages"  height="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/pypimo" align="left">
+  <a href="https://leetcode.com/users/pypimo" align="left">
     <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=dark" alt="pypimo's leetcode stats" height="200" />
   </a>
 </div>
@@ -50,23 +46,6 @@
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
 <!--   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="scikit-learn" width="40" height="40"/> </a> -->
-</p>
-  
-
-## 🏆 GitHub Trophies
-
-<p>
-  <a href="https://www.github.com/pypimo">
-    <img src="https://github-profile-trophy.vercel.app/?username=pypimo&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="pypimo's trophies">
-  </a>
-</p>
-
-## 🌐 Social Hangouts
-
-<p align="left">
-  <a href = "https://www.linkedin.com/in/praptibhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/prapti_bhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://twitter.com/prapti_twts/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## 👩‍💻 Coding profiles
