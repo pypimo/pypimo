@@ -25,7 +25,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical" alt="pypimo's Github stats" height="200"/>
   </a>
   <br><br>
-  <a href="https://leetcode.com/users/pypimo" align="left">
+  <a href="https://leetcode.com/u/pypimo/" align="left">
     <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=dark" alt="pypimo's leetcode stats" height="200" />
   </a>
 </div>
@@ -60,7 +60,6 @@
 [![pypimo's holopin badges](https://holopin.me/pypimo)](https://holopin.io/@pypimo)
 
 <br>
-
 <div align="center"> 
   <p>Visitor's Counter</p>
   <a href="https://github.com/pypimo">
