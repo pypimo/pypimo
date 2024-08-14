@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️I am a FrontEnd Web Developer 
 
-- 👩‍💻 I’m a second year Computer Science engineering undergrad
+- 👩‍💻 I’m a 3rd year Computer Science engineering undergrad 
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
 
