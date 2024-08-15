@@ -5,15 +5,20 @@
   <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIxMXVjNXQ2Mmk2N3pjbnFlbHUyZXR2bzZrdTZmeDJ1dmp3a3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/g
   iphy.gif" width="400" height="300"/> -->
   
-  ![cat-gif](https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353)
+  <img align="right" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
+  
+  
 </div>
 
 - 👩‍💻 I’m a 3rd year Computer Science engineering undergrad 
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
+<br>
+<br>
+<br>
 
 ## 📊My Stats
-<div align="center">
+<div align="left">
   <br>
   <a href="https://github.com/pypimo" align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=radical" alt="pypimo's GitHub Streak" height="200"/>
