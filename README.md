@@ -12,15 +12,11 @@
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
 
-## 📊My GitHub Stats
+## 📊My Stats
 <div align="center">
   <br>
   <a href="https://github.com/pypimo" align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=radical" alt="pypimo's GitHub Streak" height="200"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/pypimo" align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&show_icons=true&theme=radical" alt="pypimo's Github stats" height="200"/>
   </a>
   <br><br>
   <a href="https://leetcode.com/u/pypimo/" align="left">
