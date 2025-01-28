@@ -21,7 +21,7 @@
 <div align="left">
   <br>
   <a href="https://github.com/pypimo" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pypimo&theme=radical" alt="pypimo's GitHub Streak" height="200"/>
+    <img src="=https://github.com/user-attachments/assets/4e439b8f-36fe-4bfa-b2b9-b116dba818f5" alt="pypimo's GitHub Streak" height="200"/>
   </a>
   <br><br>
   <a href="https://leetcode.com/u/pypimo/" align="left">
