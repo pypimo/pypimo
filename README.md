@@ -10,7 +10,7 @@
   
 </div>
 
-- 👩‍💻 I’m a Computer Science engineering undergrad 
+- 👩‍💻 I’m a student
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
 <br>
