@@ -28,6 +28,7 @@
     <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=dark" alt="pypimo's leetcode stats" height="200" />
   </a>
 </div>
+
 ## Languages and Tools I'm familiar with
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -45,6 +46,7 @@
   <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
 <!--   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="scikit-learn" width="40" height="40"/> </a> -->
 </p>
+
 ## Coding profiles
 <p align="left">
   <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
