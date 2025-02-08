@@ -9,10 +9,13 @@
   
   
 </div>
-
+<div align='left'>
+  
 - 👩‍💻 I’m a student
 - 🌱 Learning technologies that I find interesting along the way
 - ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
+
+</div>
 <br>
 <br>
 <br>
