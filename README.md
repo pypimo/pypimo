@@ -24,11 +24,12 @@
 <div align="left">
   <br>
   <a href="https://github.com/pypimo" align="left">
-    <img src="=https://github.com/user-attachments/assets/4e439b8f-36fe-4bfa-b2b9-b116dba818f5" alt="pypimo's GitHub Streak" height="200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pypimo&theme=omni&hide_border=true" alt="pypimo's GitHub Stats" height="200"/>
   </a>
+  
   <br><br>
   <a href="https://leetcode.com/u/pypimo/" align="left">
-    <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=dark" alt="pypimo's leetcode stats" height="200" />
+    <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=catppuccinMocha" alt="pypimo's leetcode stats" height="200" />
   </a>
 </div>
 
@@ -42,17 +43,15 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://www.matplotlib.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://www.matplotlib.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  alt="scikit-learn" width="40" height="40"/> </a>
 <!--   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> </a> -->
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
-<!--   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="scikit-learn" width="40" height="40"/> </a> -->
 </p>
-
 ## Coding profiles
 <p align="left">
   <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/pypimo"><img align="center" alt="pypimo" height="30" width="40" src="https://www.svgrepo.com/show/305880/codechef.svg" /></a>
+  <a href="https://www.codechef.com/users/pypimo"><img align="center" alt="pypimo" height="30" width="40" src="https://www.facebook.com/CodeChef/" /></a>
   <a href="https://codeforces.com/profile/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pypimo" height="30" width="40" /></a>&nbsp;
 </p>
