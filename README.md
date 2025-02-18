@@ -1,37 +1,28 @@
 <h1 align="center"> <img width="50" height="50" src="https://github.com/user-attachments/assets/cae300e5-f981-44b5-8fe1-28b5f741c50b">
   Hello visitor 
-
 </h1> 
-<div align='right'>
-  
-</div>
-<div align='center'>
-  
-  
 
-
+<p align='center'>
 👩‍💻 I’m a computer science undergrad <br>
 🌱 Learning technologies that I find interesting along the way <br>
 ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
-</div>
+  <br><br>
+  <img align="center" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
+</p>
 
-<div align="center">
-<img align="center" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
-</div>
 
-<h2 align="center">My Stats</h2>
-<div align="center">
-  <a href="https://github.com/pypimo" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pypimo&theme=omni&hide_border=true" alt="pypimo's GitHub Stats" height="200"/>
+<h1 align="center">My Stats</h1>
+<div align="center">  
+  <a href="https://github.com/pypimo/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="pypimo's github" height="200" />
   </a>
-  <br>
-  <br>
-  <a href="https://leetcode.com/u/pypimo/" align="left">
+  <br> <br>
+  <a href="https://leetcode.com/u/pypimo/">
     <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=catppuccinMocha" alt="pypimo's leetcode stats" height="200" />
   </a>
 </div>
 
-<h2 align="center"> Languages and Tools I'm familiar with</h2>
+<h1 align="center"> Languages and Tools I'm familiar with</h1>
 <table>
 <!--   <thead>
     <tr>
@@ -172,7 +163,7 @@
   <a href="https://help.figma.com/hc/en-us" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 </p>
  -->
-<h2 align="center"> My Coding profiles </h2>
+<h1 align="center"> My Coding profiles </h1>
 <p align="center">
   <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/pypimo" target="blank"><img align="center" alt="pypimo" height="40" width="40" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" /></a>
