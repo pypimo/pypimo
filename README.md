@@ -22,15 +22,16 @@
   </a>
 </div>
 
+<!--
 <h1 align="center"> Languages and Tools I'm familiar with</h1>
 <table>
-<!--   <thead>
+  <thead>
     <tr>
       <th align="left">Technology</th>
       <th align="left">Specialization</th>
       <th align="right">Technologies</th>
     </tr>
-  </thead> -->
+  </thead> 
   <tbody>
     <tr>
       <td rowspan="1">Core Programming</td>
@@ -146,6 +147,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 <!-- <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
