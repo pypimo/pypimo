@@ -3,8 +3,8 @@
 </h1> 
 
 <p align='center'>
-👩‍💻 I’m a software engineer building scalable backend systems at Agoda <br>
-🌱 Learning technologies that I find interesting along the way <br>
+👩‍💻 I’m a software engineer who likes solving complex problems <br>
+🌱 Learning technologies and building stuff I find interesting along the way <br>
 ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
   <br><br>
   <img align="center" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
