@@ -3,7 +3,7 @@
 </h1> 
 
 <p align='center'>
-👩‍💻 I’m a computer science undergrad <br>
+👩‍💻 I’m a software engineer building scalable backend systems at Agoda <br>
 🌱 Learning technologies that I find interesting along the way <br>
 ⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
   <br><br>
