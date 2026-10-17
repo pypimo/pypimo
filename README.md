@@ -1,17 +1,16 @@
-<h1 align="center"> <img width="50" height="50" src="https://github.com/user-attachments/assets/cae300e5-f981-44b5-8fe1-28b5f741c50b">
+<h1 align="left"> <img width="50" height="50" src="https://github.com/user-attachments/assets/cae300e5-f981-44b5-8fe1-28b5f741c50b">
   Hello visitor 
 </h1> 
 
-<p align='center'>
+<p align='left'>
 👩‍💻 I’m a software engineer who likes solving complex problems <br>
-🌱 Learning technologies and building stuff I find interesting along the way <br>
-⚡ I enjoy listening to music 🎧, watching movies 📺 and reading books 📚
-  <br><br>
-  <img align="center" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
+📚 Learning technologies and building stuff I find interesting along the way <br>
+🎧 I enjoy listening indie pop, watching movies, and reading books 
+  <img align="right" width="300" height="200" src="https://github.com/pypimo/pypimo/assets/60395555/39069d52-45fe-4222-9a54-dacb5cb6c353">
 </p>
 
 
-<h1 align="center">My Stats</h1>
+<!-- <h1 align="center">My Stats</h1>
 <div align="center">  
   <a href="https://github.com/pypimo/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pypimo&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="pypimo's github" height="200" />
@@ -20,7 +19,7 @@
   <a href="https://leetcode.com/u/pypimo/">
     <img align="center" src="https://leetcard.jacoblin.cool/pypimo?theme=catppuccinMocha" alt="pypimo's leetcode stats" height="200" />
   </a>
-</div>
+</div> -->
 
 <!--
 <h1 align="center"> Languages and Tools I'm familiar with</h1>
@@ -165,8 +164,8 @@
   <a href="https://help.figma.com/hc/en-us" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 </p>
  -->
-<h1 align="center"> My Coding profiles </h1>
-<p align="center">
+<!-- <h1 align="left"> My Coding profiles </h1> -->
+<p align="left">
   <a href="https://www.leetcode.com/pypimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pypimo" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/pypimo" target="blank"><img align="center" alt="pypimo" height="40" width="40" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" /></a>
   <a href="https://codeforces.com/profile/pypimo" target="blank"><img align="center"  height="40" width="40"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pypimo" height="40" width="40" /></a>
